@@ -5,4 +5,4 @@ $ yarn
 $ yarn run test
 ```
 
-Tests are written using [tape](https://www.npmjs.com/package/tape)
+Tests are written using [jest](https://jestjs.io/)
