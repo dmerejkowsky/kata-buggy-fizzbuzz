@@ -10,7 +10,9 @@ Here are the FizzBuzz rules:
 ## Instructions
 
 * Run the main application
+* Run the tests - they should pass
 * You should discover hat the code is buggy
-* Write a test that shows there's a bug - it should **fail**
+* Write a test that shows there's a bug - it should **fail** - you can
+  get inspiration from the existing `Calculator.add` test
 * Fix the bug
 * Test should now **pass**
