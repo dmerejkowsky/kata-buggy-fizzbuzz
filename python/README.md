@@ -1,7 +1,13 @@
-# Running tests
+# Running the app
 
 ```
-$ python -m venv .venv 
+$ python main.py
+```
+
+# Running the tests
+
+```
+$ python -m venv .venv
 # or
 $ python3 -m venv .venv
 $ source .venv/bin/activate
